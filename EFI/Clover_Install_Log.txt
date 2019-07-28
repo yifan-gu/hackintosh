@@ -1,0 +1,94 @@
+
+Clover EFI installer log - Wed Jul 10 23:59:55 PDT 2019
+Installer version: v2.4k r4988 EFI bootloader
+======================================================
+/dev/disk0 (internal):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                         500.3 GB   disk0
+   1:                        EFI EFI                     314.6 MB   disk0s1
+   2:                 Apple_APFS Container disk1         500.0 GB   disk0s2
+
+/dev/disk1 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +500.0 GB   disk1
+                                 Physical Store disk0s2
+   1:                APFS Volume Macintosh HD            435.1 GB   disk1s1
+   2:                APFS Volume Preboot                 44.4 MB    disk1s2
+   3:                APFS Volume Recovery                509.8 MB   disk1s3
+   4:                APFS Volume VM                      4.3 GB     disk1s4
+
+/dev/disk2 (external, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *15.7 GB    disk2
+   1:                        EFI EFI                     209.7 MB   disk2s1
+   2:                  Apple_HFS Install macOS Mojave    15.3 GB    disk2s2
+
+/dev/disk4 (disk image):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        +41.5 MB    disk4
+   1:                 Apple_APFS Container disk5         41.5 MB    disk4s1
+
+/dev/disk5 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +41.5 MB    disk5
+                                 Physical Store disk4s1
+   1:                APFS Volume Zoom                    27.9 MB    disk5s1
+
+/dev/disk6 (disk image):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        +41.5 MB    disk6
+   1:                 Apple_APFS Container disk7         41.5 MB    disk6s1
+
+/dev/disk7 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +41.5 MB    disk7
+                                 Physical Store disk6s1
+   1:                APFS Volume Zoom                    27.9 MB    disk7s1
+
+/dev/disk8 (disk image):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        +41.5 MB    disk8
+   1:                 Apple_APFS Container disk9         41.5 MB    disk8s1
+
+/dev/disk9 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +41.5 MB    disk9
+                                 Physical Store disk8s1
+   1:                APFS Volume Zoom                    27.9 MB    disk9s1
+
+/dev/disk10 (disk image):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        +41.2 MB    disk10
+   1:                 Apple_APFS Container disk11        41.2 MB    disk10s1
+
+/dev/disk11 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +41.2 MB    disk11
+                                 Physical Store disk10s1
+   1:                APFS Volume Zoom                    27.8 MB    disk11s1
+
+/dev/disk12 (external, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *15.6 GB    disk12
+   1:                        EFI EFI                     209.7 MB   disk12s1
+   2:                  Apple_HFS Install macOS Mojave... 15.2 GB    disk12s2
+
+/dev/disk13 (disk image):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        +7.3 GB     disk13
+   1:                        EFI EFI                     209.7 MB   disk13s1
+   2:                  Apple_HFS InstallESD              6.9 GB     disk13s2
+
+======================================================
+Backing up EFI files
+
+Backing up /Volumes/Install macOS Mojave/EFIROOTDIR/EFI folder to /Volumes/Install macOS Mojave/EFI-Backups/r4988/2019-07-10-23h59/EFI
+======================================================
+Installing BootSectors/BootLoader
+
+Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /Volumes/Install macOS Mojave
+Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /Volumes/Install macOS Mojave
+
+======================================================
+=========== Clover EFI Installation Finish ===========
+======================================================

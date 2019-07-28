@@ -1,0 +1,234 @@
+16:094  9:103  Found BIOS RSDP at F0010
+16:094  0:000  Printing ACPI tables from RSDP F0010 ...
+16:094  0:000   F0010: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+16:094  0:000    (Xsdt: 3A6930D8, Rsdt: 3A693028)
+16:094  0:000    3A6930D8: 'XSDT', 'A M I', Rev: 1, Len: 292
+16:094  0:000    3A693028: 'RSDT', 'A M I', Rev: 1, Len: 164
+16:094  0:000    Tables in Xsdt: 32
+16:094  0:000    0. 3A6B2CC0: 'FACP', 'A M I', Rev: 6, Len: 276
+16:094  0:000        (Dsdt: 3A693290, Facs: 4CAA6080, XDsdt: 3A693290, XFacs: 0)
+16:094  0:000        3A693290: 'DSDT', 'A M I', Rev: 2, Len: 129581
+16:095  0:001        4CAA6080: 'FACS', Ver: 2, Len: 64
+16:095  0:000    1. 3A6B2DD8: 'FPDT', 'A M I', Rev: 1, Len: 68
+16:095  0:000    2. 3A6B2E20: 'FIDT', 'A M I', Rev: 1, Len: 156
+16:095  0:000    3. 3A70EFE0: 'WSMT', 'A M I', Rev: 1, Len: 40
+16:095  0:000    4. 3A6B2F18: 'UEFI', 'A M I', Rev: 1, Len: 66
+16:095  0:000    5. 3A6B2F60: 'MCFG', 'A M I', Rev: 1, Len: 60
+16:095  0:000    6. 3A6B2FA0: 'HPET', 'A M I', Rev: 1, Len: 56
+16:095  0:000    7. 3A6B2FD8: 'APIC', 'A M I', Rev: 3, Len: 1822
+16:095  0:000    8. 3A6B36F8: 'MCFG', 'A M I', Rev: 1, Len: 60
+16:095  0:000    9. 3A6B3738: 'MIGT', 'A M I', Rev: 1, Len: 64
+16:095  0:000    10. 3A6B3778: 'MSCT', 'A M I', Rev: 1, Len: 78
+16:095  0:000    11. 3A6B37C8: 'PCCT', 'A M I', Rev: 1, Len: 110
+16:095  0:000    12. 3A6B3838: 'RASF', 'A M I', Rev: 1, Len: 48
+16:095  0:000    13. 3A6B3868: 'SLIT', 'A M I', Rev: 1, Len: 108
+16:095  0:000    14. 3A6B38D8: 'SRAT', 'A M I', Rev: 3, Len: 2608
+16:095  0:000    15. 3A6B4308: 'SVOS', 'A M I', Rev: 1, Len: 50
+16:095  0:000    16. 3A6B4340: 'WDDT', 'A M I', Rev: 1, Len: 64
+16:095  0:000    17. 3A6B4380: 'OEM4', 'CPU  CST', Rev: 2, Len: 170610
+16:095  0:000    18. 3A6DDDF8: 'OEM1', 'CPU EIST', Rev: 2, Len: 43979
+16:095  0:000    19. 3A6E89C8: 'OEM2', 'CPU  HWP', Rev: 2, Len: 27312
+16:095  0:000    20. 3A6EF478: 'SSDT', 'SSDT  PM', Rev: 2, Len: 54311
+16:095  0:000    21. 3A6FC8A0: 'NITR', 'A M I', Rev: 2, Len: 113
+16:095  0:000    22. 3A6FC918: 'SSDT', 'A M I', Rev: 2, Len: 3476
+16:095  0:000    23. 3A6FD6B0: 'LPIT', 'SKL', Rev: 1, Len: 148
+16:095  0:000    24. 3A6FD748: 'WSMT', 'SKL', Rev: 1, Len: 40
+16:095  0:000    25. 3A6FD770: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+16:095  0:000    26. 3A700778: 'DBGP', '', Rev: 1, Len: 52
+16:095  0:000    27. 3A7007B0: 'DBG2', '', Rev: 0, Len: 84
+16:095  0:000    28. 3A700808: 'VFCT', 'A M I', Rev: 1, Len: 59012
+16:095  0:000    29. 3A70EE90: 'BGRT', 'A M I', Rev: 1, Len: 56
+16:095  0:000    30. 3A70EEC8: 'WPBT', 'A M I', Rev: 1, Len: 60
+16:095  0:000    31. 3A70EF08: 'DMAR', 'A M I', Rev: 1, Len: 216
+16:095  0:000    Tables in Rsdt: 32
+16:095  0:000    0. 3A693208: 'FACP', 'A M I', Rev: 2, Len: 132
+16:095  0:000        (Dsdt: 3A693290, Facs: 4CAA6040)
+16:095  0:000        3A693290: 'DSDT', 'A M I', Rev: 2, Len: 129581
+16:097  0:001        4CAA6040: 'FACS', Ver: 0, Len: 64
+16:097  0:000    1. 3A6B2DD8: 'FPDT', 'A M I', Rev: 1, Len: 68
+16:097  0:000    2. 3A6B2E20: 'FIDT', 'A M I', Rev: 1, Len: 156
+16:097  0:000    3. 3A70EFE0: 'WSMT', 'A M I', Rev: 1, Len: 40
+16:097  0:000    4. 3A6B2F18: 'UEFI', 'A M I', Rev: 1, Len: 66
+16:097  0:000    5. 3A6B2F60: 'MCFG', 'A M I', Rev: 1, Len: 60
+16:097  0:000    6. 3A6B2FA0: 'HPET', 'A M I', Rev: 1, Len: 56
+16:097  0:000    7. 3A6B2FD8: 'APIC', 'A M I', Rev: 3, Len: 1822
+16:097  0:000    8. 3A6B36F8: 'MCFG', 'A M I', Rev: 1, Len: 60
+16:097  0:000    9. 3A6B3738: 'MIGT', 'A M I', Rev: 1, Len: 64
+16:097  0:000    10. 3A6B3778: 'MSCT', 'A M I', Rev: 1, Len: 78
+16:097  0:000    11. 3A6B37C8: 'PCCT', 'A M I', Rev: 1, Len: 110
+16:097  0:000    12. 3A6B3838: 'RASF', 'A M I', Rev: 1, Len: 48
+16:097  0:000    13. 3A6B3868: 'SLIT', 'A M I', Rev: 1, Len: 108
+16:097  0:000    14. 3A6B38D8: 'SRAT', 'A M I', Rev: 3, Len: 2608
+16:097  0:000    15. 3A6B4308: 'SVOS', 'A M I', Rev: 1, Len: 50
+16:097  0:000    16. 3A6B4340: 'WDDT', 'A M I', Rev: 1, Len: 64
+16:097  0:000    17. 3A6B4380: 'OEM4', 'CPU  CST', Rev: 2, Len: 170610
+16:097  0:000    18. 3A6DDDF8: 'OEM1', 'CPU EIST', Rev: 2, Len: 43979
+16:097  0:000    19. 3A6E89C8: 'OEM2', 'CPU  HWP', Rev: 2, Len: 27312
+16:097  0:000    20. 3A6EF478: 'SSDT', 'SSDT  PM', Rev: 2, Len: 54311
+16:097  0:000    21. 3A6FC8A0: 'NITR', 'A M I', Rev: 2, Len: 113
+16:097  0:000    22. 3A6FC918: 'SSDT', 'A M I', Rev: 2, Len: 3476
+16:097  0:000    23. 3A6FD6B0: 'LPIT', 'SKL', Rev: 1, Len: 148
+16:097  0:000    24. 3A6FD748: 'WSMT', 'SKL', Rev: 1, Len: 40
+16:097  0:000    25. 3A6FD770: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+16:097  0:000    26. 3A700778: 'DBGP', '', Rev: 1, Len: 52
+16:097  0:000    27. 3A7007B0: 'DBG2', '', Rev: 0, Len: 84
+16:097  0:000    28. 3A700808: 'VFCT', 'A M I', Rev: 1, Len: 59012
+16:097  0:000    29. 3A70EE90: 'BGRT', 'A M I', Rev: 1, Len: 56
+16:097  0:000    30. 3A70EEC8: 'WPBT', 'A M I', Rev: 1, Len: 60
+16:097  0:000    31. 3A70EF08: 'DMAR', 'A M I', Rev: 1, Len: 216
+16:097  0:000  Found UEFI Acpi 2.0 RSDP at 3A693000
+16:097  0:000  Saving ACPI tables from RSDP 3A693000 to EFI\CLOVER\ACPI\origin ...
+16:097  0:000   3A693000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+16:111  0:014    (Xsdt: 3A6930D8, Rsdt: 3A693028)
+16:111  0:000    3A6930D8: 'XSDT', 'A M I', Rev: 1, Len: 292 -> XSDT.aml
+16:125  0:013    3A693028: 'RSDT', 'A M I', Rev: 1, Len: 164 -> RSDT.aml
+16:139  0:013    Tables in Xsdt: 32
+16:139  0:000    0. 3A6B2CC0: 'FACP', 'A M I', Rev: 6, Len: 276 -> FACP.aml
+16:152  0:013        (Dsdt: 3A693290, Facs: 4CAA6080, XDsdt: 3A693290, XFacs: 0)
+16:152  0:000        3A693290: 'DSDT', 'A M I', Rev: 2, Len: 129581 -> DSDT.aml
+16:169  0:016        4CAA6080: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+16:183  0:013    1. 3A6B2DD8: 'FPDT', 'A M I', Rev: 1, Len: 68 -> FPDT.aml
+16:196  0:013    2. 3A6B2E20: 'FIDT', 'A M I', Rev: 1, Len: 156 -> FIDT.aml
+16:210  0:013    3. 3A70EFE0: 'WSMT', 'A M I', Rev: 1, Len: 40 -> WSMT.aml
+16:224  0:013    4. 3A6B2F18: 'UEFI', 'A M I', Rev: 1, Len: 66 -> UEFI.aml
+16:237  0:013    5. 3A6B2F60: 'MCFG', 'A M I', Rev: 1, Len: 60 -> MCFG.aml
+16:251  0:013    6. 3A6B2FA0: 'HPET', 'A M I', Rev: 1, Len: 56 -> HPET.aml
+16:265  0:013    7. 3A6B2FD8: 'APIC', 'A M I', Rev: 3, Len: 1822 -> APIC.aml
+16:279  0:013    8. 3A6B36F8: 'MCFG', 'A M I', Rev: 1, Len: 60 -> MCFG.aml
+16:298  0:019    9. 3A6B3738: 'MIGT', 'A M I', Rev: 1, Len: 64 -> MIGT.aml
+16:312  0:014    10. 3A6B3778: 'MSCT', 'A M I', Rev: 1, Len: 78 -> MSCT.aml
+16:326  0:013    11. 3A6B37C8: 'PCCT', 'A M I', Rev: 1, Len: 110 -> PCCT.aml
+16:340  0:014    12. 3A6B3838: 'RASF', 'A M I', Rev: 1, Len: 48 -> RASF.aml
+16:354  0:013    13. 3A6B3868: 'SLIT', 'A M I', Rev: 1, Len: 108 -> SLIT.aml
+16:368  0:013    14. 3A6B38D8: 'SRAT', 'A M I', Rev: 3, Len: 2608 -> SRAT.aml
+16:382  0:014    15. 3A6B4308: 'SVOS', 'A M I', Rev: 1, Len: 50 -> SVOS.aml
+16:396  0:013    16. 3A6B4340: 'WDDT', 'A M I', Rev: 1, Len: 64 -> WDDT.aml
+16:410  0:013    17. 3A6B4380: 'OEM4', 'CPU  CST', Rev: 2, Len: 170610 -> OEM4.aml
+16:426  0:015    18. 3A6DDDF8: 'OEM1', 'CPU EIST', Rev: 2, Len: 43979 -> OEM1.aml
+16:440  0:014    19. 3A6E89C8: 'OEM2', 'CPU  HWP', Rev: 2, Len: 27312 -> OEM2.aml
+16:455  0:014    20. 3A6EF478: 'SSDT', 'SSDT  PM', Rev: 2, Len: 54311 -> SSDT-0-SSDT  PM.aml
+16:469  0:014    21. 3A6FC8A0: 'NITR', 'A M I', Rev: 2, Len: 113 -> NITR.aml
+16:484  0:014    22. 3A6FC918: 'SSDT', 'A M I', Rev: 2, Len: 3476 -> SSDT-1-A M I.aml
+16:498  0:014    23. 3A6FD6B0: 'LPIT', 'SKL', Rev: 1, Len: 148 -> LPIT.aml
+16:512  0:013    24. 3A6FD748: 'WSMT', 'SKL', Rev: 1, Len: 40 -> WSMT.aml
+16:533  0:020    25. 3A6FD770: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290 -> SSDT-2-PtidDevc.aml
+16:547  0:014    26. 3A700778: 'DBGP', '', Rev: 1, Len: 52 -> DBGP.aml
+16:561  0:013    27. 3A7007B0: 'DBG2', '', Rev: 0, Len: 84 -> DBG2.aml
+16:575  0:013    28. 3A700808: 'VFCT', 'A M I', Rev: 1, Len: 59012 -> VFCT.aml
+16:589  0:014    29. 3A70EE90: 'BGRT', 'A M I', Rev: 1, Len: 56 -> BGRT.aml
+16:603  0:013    30. 3A70EEC8: 'WPBT', 'A M I', Rev: 1, Len: 60 -> WPBT.aml
+16:617  0:013    31. 3A70EF08: 'DMAR', 'A M I', Rev: 1, Len: 216 -> DMAR.aml
+16:631  0:013    Tables in Rsdt: 32
+16:631  0:000    0. 3A693208: 'FACP', 'A M I', Rev: 2, Len: 132 -> RSDT-FACP.aml
+16:644  0:013        (Dsdt: 3A693290, Facs: 4CAA6040)
+16:644  0:000        3A693290: 'DSDT', 'A M I', Rev: 2, Len: 129581
+16:646  0:001        4CAA6040: 'FACS', Ver: 0, Len: 64 -> RSDT-FACS.aml
+16:660  0:014    1. 3A6B2DD8: 'FPDT', 'A M I', Rev: 1, Len: 68
+16:660  0:000    2. 3A6B2E20: 'FIDT', 'A M I', Rev: 1, Len: 156
+16:660  0:000    3. 3A70EFE0: 'WSMT', 'A M I', Rev: 1, Len: 40
+16:660  0:000    4. 3A6B2F18: 'UEFI', 'A M I', Rev: 1, Len: 66
+16:660  0:000    5. 3A6B2F60: 'MCFG', 'A M I', Rev: 1, Len: 60
+16:660  0:000    6. 3A6B2FA0: 'HPET', 'A M I', Rev: 1, Len: 56
+16:660  0:000    7. 3A6B2FD8: 'APIC', 'A M I', Rev: 3, Len: 1822
+16:660  0:000    8. 3A6B36F8: 'MCFG', 'A M I', Rev: 1, Len: 60
+16:660  0:000    9. 3A6B3738: 'MIGT', 'A M I', Rev: 1, Len: 64
+16:660  0:000    10. 3A6B3778: 'MSCT', 'A M I', Rev: 1, Len: 78
+16:660  0:000    11. 3A6B37C8: 'PCCT', 'A M I', Rev: 1, Len: 110
+16:660  0:000    12. 3A6B3838: 'RASF', 'A M I', Rev: 1, Len: 48
+16:660  0:000    13. 3A6B3868: 'SLIT', 'A M I', Rev: 1, Len: 108
+16:660  0:000    14. 3A6B38D8: 'SRAT', 'A M I', Rev: 3, Len: 2608
+16:660  0:000    15. 3A6B4308: 'SVOS', 'A M I', Rev: 1, Len: 50
+16:660  0:000    16. 3A6B4340: 'WDDT', 'A M I', Rev: 1, Len: 64
+16:660  0:000    17. 3A6B4380: 'OEM4', 'CPU  CST', Rev: 2, Len: 170610
+16:660  0:000    18. 3A6DDDF8: 'OEM1', 'CPU EIST', Rev: 2, Len: 43979
+16:660  0:000    19. 3A6E89C8: 'OEM2', 'CPU  HWP', Rev: 2, Len: 27312
+16:660  0:000    20. 3A6EF478: 'SSDT', 'SSDT  PM', Rev: 2, Len: 54311
+16:660  0:000    21. 3A6FC8A0: 'NITR', 'A M I', Rev: 2, Len: 113
+16:660  0:000    22. 3A6FC918: 'SSDT', 'A M I', Rev: 2, Len: 3476
+16:660  0:000    23. 3A6FD6B0: 'LPIT', 'SKL', Rev: 1, Len: 148
+16:660  0:000    24. 3A6FD748: 'WSMT', 'SKL', Rev: 1, Len: 40
+16:660  0:000    25. 3A6FD770: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+16:660  0:000    26. 3A700778: 'DBGP', '', Rev: 1, Len: 52
+16:660  0:000    27. 3A7007B0: 'DBG2', '', Rev: 0, Len: 84
+16:660  0:000    28. 3A700808: 'VFCT', 'A M I', Rev: 1, Len: 59012
+16:660  0:000    29. 3A70EE90: 'BGRT', 'A M I', Rev: 1, Len: 56
+16:660  0:000    30. 3A70EEC8: 'WPBT', 'A M I', Rev: 1, Len: 60
+16:660  0:000    31. 3A70EF08: 'DMAR', 'A M I', Rev: 1, Len: 216
+16:660  0:000  Found UEFI Acpi 1.0 RSDP at 3A693000
+16:660  0:000  Printing ACPI tables from RSDP 3A693000 ...
+16:660  0:000   3A693000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+16:660  0:000    (Xsdt: 3A6930D8, Rsdt: 3A693028)
+16:660  0:000    3A6930D8: 'XSDT', 'A M I', Rev: 1, Len: 292
+16:660  0:000    3A693028: 'RSDT', 'A M I', Rev: 1, Len: 164
+16:660  0:000    Tables in Xsdt: 32
+16:660  0:000    0. 3A6B2CC0: 'FACP', 'A M I', Rev: 6, Len: 276
+16:660  0:000        (Dsdt: 3A693290, Facs: 4CAA6080, XDsdt: 3A693290, XFacs: 0)
+16:660  0:000        3A693290: 'DSDT', 'A M I', Rev: 2, Len: 129581
+16:662  0:001        4CAA6080: 'FACS', Ver: 2, Len: 64
+16:662  0:000    1. 3A6B2DD8: 'FPDT', 'A M I', Rev: 1, Len: 68
+16:662  0:000    2. 3A6B2E20: 'FIDT', 'A M I', Rev: 1, Len: 156
+16:662  0:000    3. 3A70EFE0: 'WSMT', 'A M I', Rev: 1, Len: 40
+16:662  0:000    4. 3A6B2F18: 'UEFI', 'A M I', Rev: 1, Len: 66
+16:662  0:000    5. 3A6B2F60: 'MCFG', 'A M I', Rev: 1, Len: 60
+16:662  0:000    6. 3A6B2FA0: 'HPET', 'A M I', Rev: 1, Len: 56
+16:662  0:000    7. 3A6B2FD8: 'APIC', 'A M I', Rev: 3, Len: 1822
+16:662  0:000    8. 3A6B36F8: 'MCFG', 'A M I', Rev: 1, Len: 60
+16:662  0:000    9. 3A6B3738: 'MIGT', 'A M I', Rev: 1, Len: 64
+16:662  0:000    10. 3A6B3778: 'MSCT', 'A M I', Rev: 1, Len: 78
+16:662  0:000    11. 3A6B37C8: 'PCCT', 'A M I', Rev: 1, Len: 110
+16:662  0:000    12. 3A6B3838: 'RASF', 'A M I', Rev: 1, Len: 48
+16:662  0:000    13. 3A6B3868: 'SLIT', 'A M I', Rev: 1, Len: 108
+16:662  0:000    14. 3A6B38D8: 'SRAT', 'A M I', Rev: 3, Len: 2608
+16:662  0:000    15. 3A6B4308: 'SVOS', 'A M I', Rev: 1, Len: 50
+16:662  0:000    16. 3A6B4340: 'WDDT', 'A M I', Rev: 1, Len: 64
+16:662  0:000    17. 3A6B4380: 'OEM4', 'CPU  CST', Rev: 2, Len: 170610
+16:662  0:000    18. 3A6DDDF8: 'OEM1', 'CPU EIST', Rev: 2, Len: 43979
+16:662  0:000    19. 3A6E89C8: 'OEM2', 'CPU  HWP', Rev: 2, Len: 27312
+16:662  0:000    20. 3A6EF478: 'SSDT', 'SSDT  PM', Rev: 2, Len: 54311
+16:662  0:000    21. 3A6FC8A0: 'NITR', 'A M I', Rev: 2, Len: 113
+16:662  0:000    22. 3A6FC918: 'SSDT', 'A M I', Rev: 2, Len: 3476
+16:662  0:000    23. 3A6FD6B0: 'LPIT', 'SKL', Rev: 1, Len: 148
+16:662  0:000    24. 3A6FD748: 'WSMT', 'SKL', Rev: 1, Len: 40
+16:662  0:000    25. 3A6FD770: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+16:662  0:000    26. 3A700778: 'DBGP', '', Rev: 1, Len: 52
+16:662  0:000    27. 3A7007B0: 'DBG2', '', Rev: 0, Len: 84
+16:662  0:000    28. 3A700808: 'VFCT', 'A M I', Rev: 1, Len: 59012
+16:662  0:000    29. 3A70EE90: 'BGRT', 'A M I', Rev: 1, Len: 56
+16:662  0:000    30. 3A70EEC8: 'WPBT', 'A M I', Rev: 1, Len: 60
+16:662  0:000    31. 3A70EF08: 'DMAR', 'A M I', Rev: 1, Len: 216
+16:662  0:000    Tables in Rsdt: 32
+16:662  0:000    0. 3A693208: 'FACP', 'A M I', Rev: 2, Len: 132
+16:662  0:000        (Dsdt: 3A693290, Facs: 4CAA6040)
+16:662  0:000        3A693290: 'DSDT', 'A M I', Rev: 2, Len: 129581
+16:663  0:001        4CAA6040: 'FACS', Ver: 0, Len: 64
+16:663  0:000    1. 3A6B2DD8: 'FPDT', 'A M I', Rev: 1, Len: 68
+16:663  0:000    2. 3A6B2E20: 'FIDT', 'A M I', Rev: 1, Len: 156
+16:663  0:000    3. 3A70EFE0: 'WSMT', 'A M I', Rev: 1, Len: 40
+16:663  0:000    4. 3A6B2F18: 'UEFI', 'A M I', Rev: 1, Len: 66
+16:663  0:000    5. 3A6B2F60: 'MCFG', 'A M I', Rev: 1, Len: 60
+16:663  0:000    6. 3A6B2FA0: 'HPET', 'A M I', Rev: 1, Len: 56
+16:663  0:000    7. 3A6B2FD8: 'APIC', 'A M I', Rev: 3, Len: 1822
+16:663  0:000    8. 3A6B36F8: 'MCFG', 'A M I', Rev: 1, Len: 60
+16:663  0:000    9. 3A6B3738: 'MIGT', 'A M I', Rev: 1, Len: 64
+16:663  0:000    10. 3A6B3778: 'MSCT', 'A M I', Rev: 1, Len: 78
+16:663  0:000    11. 3A6B37C8: 'PCCT', 'A M I', Rev: 1, Len: 110
+16:663  0:000    12. 3A6B3838: 'RASF', 'A M I', Rev: 1, Len: 48
+16:663  0:000    13. 3A6B3868: 'SLIT', 'A M I', Rev: 1, Len: 108
+16:663  0:000    14. 3A6B38D8: 'SRAT', 'A M I', Rev: 3, Len: 2608
+16:663  0:000    15. 3A6B4308: 'SVOS', 'A M I', Rev: 1, Len: 50
+16:663  0:000    16. 3A6B4340: 'WDDT', 'A M I', Rev: 1, Len: 64
+16:663  0:000    17. 3A6B4380: 'OEM4', 'CPU  CST', Rev: 2, Len: 170610
+16:663  0:000    18. 3A6DDDF8: 'OEM1', 'CPU EIST', Rev: 2, Len: 43979
+16:663  0:000    19. 3A6E89C8: 'OEM2', 'CPU  HWP', Rev: 2, Len: 27312
+16:663  0:000    20. 3A6EF478: 'SSDT', 'SSDT  PM', Rev: 2, Len: 54311
+16:663  0:000    21. 3A6FC8A0: 'NITR', 'A M I', Rev: 2, Len: 113
+16:663  0:000    22. 3A6FC918: 'SSDT', 'A M I', Rev: 2, Len: 3476
+16:663  0:000    23. 3A6FD6B0: 'LPIT', 'SKL', Rev: 1, Len: 148
+16:663  0:000    24. 3A6FD748: 'WSMT', 'SKL', Rev: 1, Len: 40
+16:663  0:000    25. 3A6FD770: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+16:663  0:000    26. 3A700778: 'DBGP', '', Rev: 1, Len: 52
+16:663  0:000    27. 3A7007B0: 'DBG2', '', Rev: 0, Len: 84
+16:663  0:000    28. 3A700808: 'VFCT', 'A M I', Rev: 1, Len: 59012
+16:663  0:000    29. 3A70EE90: 'BGRT', 'A M I', Rev: 1, Len: 56
+16:663  0:000    30. 3A70EEC8: 'WPBT', 'A M I', Rev: 1, Len: 60
+16:663  0:000    31. 3A70EF08: 'DMAR', 'A M I', Rev: 1, Len: 216
