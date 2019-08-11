@@ -6,6 +6,8 @@ if [ $# != 1 ]; then
     exit 1
 fi
 
+echo "Running $1 processes, run \`killall yes\` to stop."
+
 for i in `seq 1 $1`
 do
     yes > /dev/null & 

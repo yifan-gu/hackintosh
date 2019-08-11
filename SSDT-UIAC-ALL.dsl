@@ -29,6 +29,11 @@ DefinitionBlock ("", "SSDT", 2, "hack", "_UIAC", 0)
                 "port-count", Buffer() { 26, 0, 0, 0 },
                 "ports", Package()
                 {
+                    "HS02", Package() // USB-3 on motherboard
+                    {
+                        "UsbConnector", 3,
+                        "port", Buffer() { 2, 0, 0, 0 },
+                    },
                     "HS03", Package() // Top back USB 2.0
                     {
                         "UsbConnector", 3,
