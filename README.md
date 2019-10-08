@@ -23,6 +23,9 @@ plutil -convert xml1 AppleSystemInfo.strings
 #edit
 plutil -convert binary1 AppleSystemInfo.strings
 
+Press F3 to show Recovery in clover.
+Enter Recovery Mode.
+
 cp AppleSystemInfo.strings /System/Library/PrivateFrameworks/AppleSystemInfo.framework/Versions/A/Resources/en.lproj/AppleSystemInfo.strings
 ```
 
