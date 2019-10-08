@@ -1,5 +1,5 @@
 # hackintosh
-My hackintosh EFI (ASUS X299 PRIME DELUXE II + i9 7980XE + Radeon VII)
+Hackintosh EFI (ASUS X299 PRIME DELUXE II + i9 7980XE + Radeon VII)
 
 ### BIOS Setup
 
